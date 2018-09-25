@@ -1,0 +1,24 @@
+{
+  "name": "hw10_node_mysql_bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffchee/hw10_node_mysql_bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffchee/hw10_node_mysql_bamazon/issues"
+  },
+  "homepage": "https://github.com/jeffchee/hw10_node_mysql_bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
